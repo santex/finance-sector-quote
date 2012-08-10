@@ -1,0 +1,6 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/Finance-NASDAQ-Markets.t
+lib/Finance/NASDAQ/Markets.pm
